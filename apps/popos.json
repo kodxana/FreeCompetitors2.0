@@ -1,0 +1,37 @@
+{
+    "comment": "Pop!_OS is an Ubuntu-based GNU / Linux distribution featuring a custom GNOME desktop. Pop!_OS is designed to have a minimal amount of clutter on the desktop without distractions in order to allow the user to focus on work. The distribution is developed by GNU / Linux computer retailer System76.",
+    "formats_read": [],
+    "formats_write": [],
+    "generic_name": [
+        "Operating System",
+        "GNU/Linux"
+    ],
+    "interface": [
+        "Cosmic",
+        "Gnome"
+    ],
+    "issues": [
+        "Suggests Installation Of Non-Free Software"
+    ],
+    "languages": [],
+    "licenses": [
+        "GPL-3.0",
+        "LGPL-3.0",
+        "MPL-2.0",
+        "GPL-2.0"
+    ],
+    "links": {
+        "git": "https://github.com/pop-os",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pop_OS-Logo-nobg.svg/1200px-Pop_OS-Logo-nobg.svg.png",
+        "website": "https://pop.system76.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pop!_OS"
+    },
+    "names": [
+        "Pop!_OS"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "PC"
+    ]
+}

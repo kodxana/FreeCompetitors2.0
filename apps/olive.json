@@ -1,0 +1,50 @@
+{
+    "comment": "A free and open-source cross-platform video editing application for Linux, Windows and macOS.",
+    "formats_read": [
+        "webm",
+        "mp4",
+        "ogg",
+        "ogv",
+        "avi",
+        "mov",
+        "dvi"
+    ],
+    "formats_write": [
+        "webm",
+        "mp4",
+        "off",
+        "ogv",
+        "avi",
+        "mov",
+        "dvi"
+    ],
+    "generic_name": [
+        "Video Editor"
+    ],
+    "interface": [
+        "Qt"
+    ],
+    "issues": [],
+    "languages": [
+        "C++"
+    ],
+    "licenses": [
+        "GPL-3.0-or-later"
+    ],
+    "links": {
+        "git": "https://github.com/olive-editor/olive",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Olive_Video_Editor_Logo.png/180px-Olive_Video_Editor_Logo.png",
+        "website": "https://www.olivevideoeditor.org/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Olive_(software)"
+    },
+    "names": [
+        "Olive"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "Windows",
+        "GNU/Linux",
+        "macOS"
+    ]
+}
