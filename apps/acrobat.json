@@ -1,0 +1,31 @@
+{
+    "comment": "Program to read PDF files.",
+    "formats_read": [
+        "pdf"
+    ],
+    "formats_write": [],
+    "generic_name": [
+        "Document Viewer"
+    ],
+    "interface": [],
+    "issues": [
+        "Non-Free Software"
+    ],
+    "languages": [],
+    "licenses": [],
+    "links": {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Adobe_Acrobat_DC_logo_2020.svg/66px-Adobe_Acrobat_DC_logo_2020.svg.png",
+        "wikipedia": "https://en.wikipedia.org/wiki/Adobe_Acrobat"
+    },
+    "names": [
+        "Adobe Acrobat",
+        "Acrobat"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "Windows",
+        "macOS",
+        "Android"
+    ]
+}

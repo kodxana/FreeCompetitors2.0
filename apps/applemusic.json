@@ -1,0 +1,43 @@
+{
+    "comment": "Apple Music is a proprietary dis-service to listen to music.",
+    "formats_read": [],
+    "formats_write": [],
+    "generic_name": [
+        "Music Player",
+        "Apple Music Client"
+    ],
+    "interface": [
+        "JavaScript",
+        "Touch"
+    ],
+    "issues": [
+        "Non-Free Software",
+        "Non-Free Network",
+        "Non-Free JavaScript",
+        "Surveillance",
+        "Subscription",
+        "DRM"
+    ],
+    "languages": [],
+    "licenses": [],
+    "links": {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Apple_Music_icon.svg/542px-Apple_Music_icon.svg.png",
+        "wikipedia": "https://en.wikipedia.org/wiki/Apple_Music"
+    },
+    "names": [
+        "Apple Music"
+    ],
+    "networks_read": [
+        "apple music"
+    ],
+    "networks_write": [
+        "apple music"
+    ],
+    "platforms": [
+        "MacOS",
+        "Windows",
+        "iOS",
+        "Android",
+        "Web"
+    ]
+}

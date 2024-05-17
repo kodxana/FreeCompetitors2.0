@@ -1,0 +1,75 @@
+{
+    "comment": "Program for Computer Aided Design",
+    "formats_read": [
+        "3ds",
+        "sat",
+        "ipt",
+        "iam",
+        "model",
+        "session",
+        "exp",
+        "dlv3",
+        "catpart",
+        "catproduct",
+        "dgn",
+        "dxb",
+        "iges",
+        "igs",
+        "jt",
+        "x_b",
+        "x_t",
+        "pdf",
+        "prt",
+        "asm",
+        "g",
+        "neu",
+        "3dm",
+        "sldprt",
+        "wmf",
+        "ste",
+        "step",
+        "stp"
+    ],
+    "formats_write": [
+        "dwf",
+        "dwfx",
+        "bmp",
+        "dwg",
+        "dxx",
+        "eps",
+        "iges",
+        "igs",
+        "fbx",
+        "stl",
+        "wmf",
+        "dgn"
+    ],
+    "generic_name": [
+        "3D Modeling",
+        "Vector Graphics",
+        "Computer Aided Design",
+        "3D Printing"
+    ],
+    "interface": [],
+    "issues": [
+        "Surveillance",
+        "Non-Free Software"
+    ],
+    "languages": [],
+    "licenses": [],
+    "links": {
+        "icon": "https://upload.wikimedia.org/wikipedia/en/e/ec/AutoCAD_2018_icon.png?20220415145609",
+        "wikipedia": "https://en.wikipedia.org/wiki/AutoCAD"
+    },
+    "names": [
+        "AutoCAD"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "Windows",
+        "macOS",
+        "iOS",
+        "Android"
+    ]
+}
