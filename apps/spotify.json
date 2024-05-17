@@ -1,0 +1,42 @@
+{
+    "comment": "An unfortunatly way too popular music player thingy. Which let's you also search for music. What a big deal...",
+    "formats_read": [],
+    "formats_write": [],
+    "generic_name": [
+        "Music Player",
+        "Marketplace"
+    ],
+    "interface": [
+        "JavaScript",
+        "Touch"
+    ],
+    "issues": [
+        "Surveillance",
+        "Subscription",
+        "DRM",
+        "Non-Free Software"
+    ],
+    "languages": [],
+    "licenses": [],
+    "links": {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/220px-Spotify_logo_with_text.svg.png",
+        "wikipedia": "https://en.wikipedia.org/wiki/Spotify"
+    },
+    "names": [
+        "Spotify"
+    ],
+    "networks_read": [
+        "spotify"
+    ],
+    "networks_write": [
+        "spotify"
+    ],
+    "platforms": [
+        "Web",
+        "Windows",
+        "GNU/Linux",
+        "macOS",
+        "Android",
+        "iOS"
+    ]
+}

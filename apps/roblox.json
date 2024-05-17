@@ -1,0 +1,63 @@
+{
+    "comment": "An online video game platform, social network, and game creation system.",
+    "formats_read": [
+        "rbxl",
+        "rbxlx",
+        "rbxm",
+        "rbxmx"
+    ],
+    "formats_write": [
+        "rbxl",
+        "rbxlx",
+        "rbxm",
+        "rbxmx"
+    ],
+    "generic_name": [
+        "Game Engine",
+        "Video Game Platform"
+    ],
+    "interface": [
+        "QT",
+        "Keyboard",
+        "Joypad",
+        "opengl"
+    ],
+    "issues": [
+        "Subscription",
+        "Non-Free Software",
+        "Non-Free Network",
+        "Non-Free JavaScript"
+    ],
+    "languages": [
+        "Lua",
+        "C++"
+    ],
+    "licenses": [],
+    "links": {
+        "icon": "https://clipartcraft.com/images/roblox-logo-transparent-7.png",
+        "website": "https://roblox.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Roblox"
+    },
+    "names": [
+        "Roblox",
+        "Roblox Player",
+        "Roblox Studio"
+    ],
+    "networks_read": [
+        "Roblox"
+    ],
+    "networks_write": [
+        "Roblox"
+    ],
+    "platforms": [
+        "Windows",
+        "Xbox One",
+        "MacOS",
+        "macOS",
+        "Android",
+        "iOS",
+        "iPadOS",
+        "iPhone",
+        "iPad"
+    ]
+}

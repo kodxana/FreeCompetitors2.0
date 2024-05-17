@@ -1,0 +1,35 @@
+{
+    "comment": "A video game digital distribution service and storefront by Valve, with digital rights management (DRM), game server matchmaking, anti-cheat measures, social networking and game streaming features.",
+    "formats_read": [],
+    "formats_write": [],
+    "generic_name": [
+        "Video Game Distribution Service",
+        "Video Game Platform"
+    ],
+    "interface": [],
+    "issues": [
+        "Non-Free Software",
+        "DRM"
+    ],
+    "languages": [],
+    "licenses": [
+        "Proprietary"
+    ],
+    "links": {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/240px-Steam_icon_logo.svg.png",
+        "website": "https://steampowered.com",
+        "wikipedia": "https://wikipedia.org/wiki/Steam_(service)"
+    },
+    "names": [
+        "Steam",
+        "Steam Client",
+        "Steam Deck"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "Windows",
+        "Linux",
+        "macOS"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "comment": "A cross-platform centralized encrypted instant messaging service developed by the non-profit Signal Foundation and Signal Messenger LLC.",
+    "formats_read": [],
+    "formats_write": [],
+    "generic_name": [
+        "Messenger",
+        "Group Messenger"
+    ],
+    "interface": [
+        "JavaScript",
+        "Touch",
+        "Custom",
+        "Electron"
+    ],
+    "issues": [
+        "Requires a Cell-Phone"
+    ],
+    "languages": [
+        "Java",
+        "Kotlin"
+    ],
+    "licenses": [
+        "AGPL-3.0",
+        "GPL-3.0"
+    ],
+    "links": {
+        "git": "https://github.com/signalapp/Signal-Android",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Signal-Logo.svg/150px-Signal-Logo.svg.png",
+        "website": "https://www.signal.org/"
+    },
+    "names": [
+        "Signal",
+        "Signal Messenger"
+    ],
+    "networks_read": [
+        "signal"
+    ],
+    "networks_write": [
+        "signal"
+    ],
+    "platforms": [
+        "GNU/Linux",
+        "MacOS",
+        "Windows",
+        "iOS",
+        "Android",
+        "Web"
+    ]
+}
