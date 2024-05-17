@@ -1,0 +1,37 @@
+{
+    "comment": "A Qt LBRY client that uses the LyBerry Api",
+    "formats_read": [],
+    "formats_write": [],
+    "generic_name": [
+        "LBRY Client",
+        "File Sharing",
+        "Social Network"
+    ],
+    "interface": [
+        "QT"
+    ],
+    "issues": [],
+    "languages": [
+        "python"
+    ],
+    "licenses": [
+        "GPL-3.0-or-later"
+    ],
+    "links": {
+        "git": "https://notabug.org/MyBeansAreBaked/lyberry",
+        "icon": "https://player.odycdn.com/api/v4/streams/free/lyberry.png/7b5db9118ba7414de212fdcdca24f69ba8adc429/8588b0"
+    },
+    "names": [
+        "Lyberry"
+    ],
+    "networks_read": [
+        "LBRY"
+    ],
+    "networks_write": [
+        "LBRY"
+    ],
+    "platforms": [
+        "GNU/Linux",
+        "Windows"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "comment": "Minecraft is a sandbox video game developed by Mojang Studios.",
+    "formats_read": [],
+    "formats_write": [],
+    "generic_name": [
+        "Sandbox Game",
+        "Survival Game",
+        "Voxel Game",
+        "First Person Game"
+    ],
+    "interface": [
+        "Custom"
+    ],
+    "issues": [
+        "Non-Free Software"
+    ],
+    "languages": [
+        "Java"
+    ],
+    "licenses": [],
+    "links": {
+        "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Minecraft_cover.png/220px-Minecraft_cover.png",
+        "wikipedia": "https://en.wikipedia.org/wiki/Minecraft"
+    },
+    "names": [
+        "Minecraft"
+    ],
+    "networks_read": [
+        "minecraft"
+    ],
+    "networks_write": [
+        "minecraft"
+    ],
+    "platforms": [
+        "Windows",
+        "macOS",
+        "GNU/Linux",
+        "Android",
+        "iOS",
+        "iPadOS",
+        "Xbox 360",
+        "Windows Phone",
+        "Playstation 3",
+        "Fire OS",
+        "Playstation 4",
+        "Xbox One",
+        "Playstation Vita",
+        "Wii U",
+        "Apple TV",
+        "tvOS",
+        "Nintendo Switch",
+        "Nintendo3DS"
+    ]
+}

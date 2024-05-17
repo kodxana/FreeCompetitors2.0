@@ -1,0 +1,33 @@
+{
+    "comment": "Free Video Game Manager and Preservation Service",
+    "formats_read": [],
+    "formats_write": [],
+    "generic_name": [
+        "Video Game Manager",
+		"Video Game Platform",
+        "Video Game Distribution Service",
+        "Video Game Preservation Platform"
+    ],
+    "interface": [
+        "GTK"
+    ],
+    "issues": [],
+    "languages": [],
+    "licenses": [
+        "GPL-3.0"
+    ],
+    "links": {
+        "git": "https://github.com/lutris/lutris",
+        "icon": "https://raw.githubusercontent.com/lutris/lutris/master/share/icons/hicolor/scalable/apps/lutris.svg",
+        "website": "lutris.net",
+        "wikipedia": "https://wikipedia.org/wiki/Lutris"
+    },
+    "names": [
+        "Lutris"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "Linux"
+    ]
+}

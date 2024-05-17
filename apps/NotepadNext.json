@@ -1,0 +1,16 @@
+    {"names":["NotepadNext"],
+     "comment":"A cross-platform, reimplementation of Notepad++.",
+     "links":{"website":"",
+    	  "git":"https://github.com/dail8859/NotepadNext",
+    	  "wikipedia":"",
+    	  "icon":"https://raw.githubusercontent.com/dail8859/NotepadNext/91c0f0aec3303489d1b7526f326ca03159929e0e/icon/NotepadNext.svg"},
+     "licenses":["GPL-3.0"],
+     "platforms":["PC"],
+     "interface":["Mouse", "Keyboard"],
+     "networks_read":[],
+     "networks_write":[],
+     "formats_read":[],
+     "formats_write":[],
+     "generic_name":["IDE"],
+     "issues":[]}
+

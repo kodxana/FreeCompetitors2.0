@@ -1,0 +1,94 @@
+{
+    "comment": "Another 3D program bought by Autodesk.",
+    "formats_read": [
+        "ma",
+        "mb",
+        "mel",
+        "fbx",
+        "dae",
+        "abc",
+        "dfx",
+        "dwg",
+        "model",
+        "cat-product",
+        "ipt",
+        "anim",
+        "apf",
+        "obj",
+        "iges",
+        "editma",
+        "editmb",
+        "wire",
+        "jt",
+        "prt",
+        "stp",
+        "sldprt",
+        "iv",
+        "csb",
+        "mov",
+        "eps",
+        "ai",
+        "fit",
+        "stl"
+    ],
+    "formats_write": [
+        "ma",
+        "mb",
+        "mel",
+        "fbx",
+        "dae",
+        "abc",
+        "dxf",
+        "obj",
+        "iv",
+        "iges",
+        "dwg",
+        "mov",
+        "editma",
+        "editmb",
+        "wrl",
+        "ctp",
+        "bullet",
+        "grp",
+        "rtg",
+        "mi",
+        "anim",
+        "apf",
+        "wire",
+        "fit",
+        "zpr"
+    ],
+    "generic_name": [
+        "3D Modeling",
+        "3D Animation",
+        "3D Rendering",
+        "3D Rigging"
+    ],
+    "interface": [],
+    "issues": [
+        "Surveillance",
+        "Non-Free Software"
+    ],
+    "languages": [
+        "C++",
+        "MEL",
+        "Python",
+        "C#"
+    ],
+    "licenses": [],
+    "links": {
+        "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Autodesk_Maya_version_2023_icon.jpg/90px-Autodesk_Maya_version_2023_icon.jpg",
+        "wikipedia": "https://en.wikipedia.org/wiki/Autodesk_Maya"
+    },
+    "names": [
+        "Autodesk Maya",
+        "Maya"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "GNU/Linux",
+        "Windows",
+        "macOS"
+    ]
+}

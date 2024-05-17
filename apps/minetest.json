@@ -1,0 +1,50 @@
+{
+    "comment": "Minetest is a free and open-source sandbox video game and game creation system with focus on voxel graphics.",
+    "formats_read": [],
+    "formats_write": [],
+    "generic_name": [
+        "Survival Game",
+        "Sandbox Game",
+        "Voxel Game",
+        "First Person Game"
+    ],
+    "interface": [
+        "Custom"
+    ],
+    "issues": [
+        "Some official clients are Non-Free"
+    ],
+    "languages": [
+        "C++",
+        "Lua"
+    ],
+    "licenses": [
+        "LGPL-2.1-or-later",
+        "GPL-2.0-or-later"
+    ],
+    "links": {
+        "documentation": "https://www.minetest.net/education/",
+        "f-droid": "https://f-droid.org/en/packages/net.minetest.minetest/",
+        "fsd": "https://directory.fsf.org/wiki/Minetest",
+        "git": "https://github.com/minetest/minetest",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Minetest_logo.svg/220px-Minetest_logo.svg.png",
+        "website": "https://www.minetest.net/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Minetest"
+    },
+    "names": [
+        "Minetest"
+    ],
+    "networks_read": [
+        "minetest"
+    ],
+    "networks_write": [
+        "minetest"
+    ],
+    "platforms": [
+        "GNU/Linux",
+        "BSD",
+        "Windows",
+        "macOS",
+        "Android"
+    ]
+}

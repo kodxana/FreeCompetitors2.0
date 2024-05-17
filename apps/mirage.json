@@ -1,0 +1,13 @@
+{"names":["Mirage"],
+ "comment": "A fancy, customizable, keyboard-operable [matrix] chat client for encrypted and decentralized communication.",
+ "links":{"git":"https://github.com/mirukana/mirage"},	  
+ "licenses":["LGPL-3.0"],
+ "platforms":["GNU/Linux"],
+ "interface":["Qt"],
+ "languages":["QML", "Python"],
+ "networks_read":["[matix]"],
+ "networks_write":["[matrix]"],
+ "formats_read":[],
+ "formats_write":[],
+ "generic_name":["Messenger",
+		 "Group Messenger"]}

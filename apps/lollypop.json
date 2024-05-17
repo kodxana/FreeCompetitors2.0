@@ -1,0 +1,38 @@
+{
+    "comment": "Lollypop is a modern music player for GNOME",
+    "formats_read": [
+        "mp3",
+        "ogg",
+        "wav",
+        "flac"
+    ],
+    "formats_write": [],
+    "generic_name": [
+        "Music Player"
+    ],
+    "interface": [
+        "GTK"
+    ],
+    "issues": [],
+    "languages": [
+        "Python"
+    ],
+    "licenses": [
+        "GPL-3.0"
+    ],
+    "links": {
+        "git": "https://gitlab.gnome.org/World/lollypop/-/tree/master",
+        "icon": "https://gitlab.gnome.org/World/lollypop/raw/master/data/icons/hicolor/256x256/apps/org.gnome.Lollypop.png",
+        "website": "https://wiki.gnome.org/Apps/Lollypop"
+    },
+    "names": [
+        "Lollypop"
+    ],
+    "networks_read": [
+        "youtube"
+    ],
+    "networks_write": [],
+    "platforms": [
+        "GNU/Linux"
+    ]
+}
