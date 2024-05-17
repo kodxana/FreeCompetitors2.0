@@ -1,0 +1,47 @@
+{
+    "comment": "Gnumeric is a spreadsheet program that is part of the GNOME Free Software Desktop Project.",
+    "formats_read": [
+        "csv",
+        "gnm",
+        "gnumeric",
+        "wks",
+        "ods"
+    ],
+    "formats_write": [
+        "csv",
+        "gnumeric",
+        "gnm",
+        "wks",
+        "ods"
+    ],
+    "generic_name": [
+        "Office",
+        "Spreadsheet"
+    ],
+    "interface": [
+        "GTK"
+    ],
+    "issues": [],
+    "languages": [
+        "C"
+    ],
+    "licenses": [
+        "GPL-2.0",
+        "GPL-3.0"
+    ],
+    "links": {
+        "git": "https://gitlab.gnome.org/GNOME/gnumeric/",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gnumeric.svg/64px-Gnumeric.svg.png",
+        "website": "http://gnumeric.org/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Gnumeric"
+    },
+    "names": [
+        "Gnumeric"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "GNU/Linux",
+        "BSD"
+    ]
+}

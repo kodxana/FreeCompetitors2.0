@@ -1,0 +1,33 @@
+{
+    "comment": "FreeTube is a YouTube client for Windows, Mac, and Linux built around using YouTube more privately. You can enjoy your favorite content and creators without your habits being tracked. All of your user data is stored locally and never sent or published to the internet. FreeTube grabs data by scraping the information it needs (with either local methods or by optionally utilizing the Invidious API). With many features similar to YouTube, FreeTube has become one of the best methods to watch YouTube privately on desktop.",
+    "formats_read": [],
+    "formats_write": [],
+    "generic_name": [
+        "Video Player",
+        "YouTube Client",
+        "Music Player"
+    ],
+    "interface": [
+        "JavaScript"
+    ],
+    "issues": [],
+    "languages": [],
+    "licenses": [
+        "AGPL-3.0-or-later"
+    ],
+    "links": {
+        "git": "https://github.com/FreeTubeApp/FreeTube",
+        "icon": "https://freetubeapp.io/images/iconWhite.png",
+        "website": "https://freetubeapp.io/"
+    },
+    "names": [
+        "FreeTube"
+    ],
+    "networks_read": [
+        "youtube"
+    ],
+    "networks_write": [],
+    "platforms": [
+        "Web"
+    ]
+}

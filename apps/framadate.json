@@ -1,0 +1,40 @@
+{
+    "comment": "Schedule a meeting or create an opinion poll.",
+    "formats_read": [],
+    "formats_write": [],
+    "generic_name": [
+        "online survey",
+        "scheduling"
+    ],
+    "interface": [
+        "JavaScript"
+    ],
+    "issues": [],
+    "languages": [
+        "PHP",
+        "Smarty",
+        "CSS",
+        "JavaScript",
+        "Shell"
+    ],
+    "licenses": [
+        "CECILL-B"
+    ],
+    "links": {
+        "git": "https://framagit.org/framasoft/framadate/framadate",
+        "icon": "https://framadate.org/abc/img/icons/date.svg",
+        "website": "https://framadate.org/abc/en/"
+    },
+    "names": [
+        "Framadate"
+    ],
+    "networks_read": [
+        "framadate"
+    ],
+    "networks_write": [
+        "framadate"
+    ],
+    "platforms": [
+        "Web"
+    ]
+}

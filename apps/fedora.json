@@ -1,0 +1,42 @@
+{
+    "comment": "Fedora is a GNU / Linux distribution developed by the community-supported Fedora Project and Red Hat. Fedora GNU / Linux contains software distributed under a free and open-source license and aims to be on the leading edge of such technologies. Fedora has a reputation for focusing on innovation, integrating new technologies early on and working closely with upstream GNU / Linux communities. ",
+    "formats_read": [],
+    "formats_write": [],
+    "generic_name": [
+        "Operating System",
+        "GNU/Linux"
+    ],
+    "interface": [
+        "Gnome",
+        "KDE",
+        "Xfce",
+        "LXDE",
+        "MATE"
+    ],
+    "issues": [
+        "Suggests Installation Of Non-Free Software",
+        "Non-Free Firmware"
+    ],
+    "languages": [],
+    "licenses": [
+        "GPL-3.0",
+        "LGPL-3.0",
+        "MPL-2.0",
+        "GPL-2.0"
+    ],
+    "links": {
+        "git": "https://src.fedoraproject.org/",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fedora_logo_%282021%29.svg/768px-Fedora_logo_%282021%29.svg.png",
+        "website": "https://fedoraproject.org/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Fedora_Linux"
+    },
+    "names": [
+        "Fedora",
+        "Fedora GNU / Linux"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "PC"
+    ]
+}
