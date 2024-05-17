@@ -1,0 +1,42 @@
+{
+    "comment": "A simple program to read documents.",
+    "formats_read": [
+        "pdf",
+        "ps",
+        "tiff",
+        "djv",
+        "djvu",
+        "xps",
+        "oxps",
+        "dvi"
+    ],
+    "formats_write": [],
+    "generic_name": [
+        "Document Viewer"
+    ],
+    "interface": [
+        "GTK"
+    ],
+    "issues": [],
+    "languages": [
+        "C",
+        "C++"
+    ],
+    "licenses": [
+        "GPL-2.0-or-later"
+    ],
+    "links": {
+        "git": "https://gitlab.gnome.org/GNOME/evince",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/GNOME_Document_Viewer_icon_2019.svg/100px-GNOME_Document_Viewer_icon_2019.svg.png",
+        "website": "https://wiki.gnome.org/Apps/Evince",
+        "wikipedia": "https://en.wikipedia.org/wiki/Evince"
+    },
+    "names": [
+        "Evince"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "GNU/Linux"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "comment": "Cider is a new cross-platform Apple Music experience built on Vue.js and written from the ground up with performance in mind.",
+    "formats_read": [],
+    "formats_write": [],
+    "generic_name": [
+        "Music Player",
+        "Apple Music Client"
+    ],
+    "interface": [
+        "JavaScript"
+    ],
+    "issues": [
+        "Non-Free Network",
+        "DRM"
+    ],
+    "languages": [
+        "JavaScript",
+        "EJS",
+        "Less",
+        "CSS",
+        "TypeScript"
+    ],
+    "licenses": [
+        "AGPL-3.0"
+    ],
+    "links": {
+        "git": "https://github.com/ciderapp/Cider",
+        "icon": "https://github.com/ciderapp/Cider/raw/main/resources/banner.png",
+        "website": "https://cider.sh/"
+    },
+    "names": [
+        "Cider"
+    ],
+    "networks_read": [
+        "apple music"
+    ],
+    "networks_write": [
+        "apple music"
+    ],
+    "platforms": [
+        "Windows",
+        "GNU/Linux"
+    ]
+}

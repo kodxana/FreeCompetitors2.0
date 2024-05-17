@@ -1,0 +1,43 @@
+{
+    "comment": "A fast client to LBRY",
+    "formats_read": [],
+    "formats_write": [],
+    "generic_name": [
+        "LBRY Client",
+        "Publication",
+        "Marketplace",
+        "Crypto"
+    ],
+    "interface": [
+        "Terminal",
+        "GTK",
+        "HTML5"
+    ],
+    "issues": [],
+    "languages": [
+        "Python"
+    ],
+    "licenses": [
+        "GPL-3.0-or-later",
+        "AGPL-3.0-or-later"
+    ],
+    "links": {
+        "FastLBRY GTK": "https://notabug.org/jyamihud/FastLBRY-GTK",
+        "git": "https://notabug.org/jyamihud/FastLBRY-terminal",
+        "icon": "https://notabug.org/jyamihud/FastLBRY-terminal/raw/master/icon.png"
+    },
+    "names": [
+        "Fast LBRY",
+        "flbry"
+    ],
+    "networks_read": [
+        "LBRY"
+    ],
+    "networks_write": [
+        "LBRY"
+    ],
+    "platforms": [
+        "GNU/Linux",
+        "Web"
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "comment": "A 3D software suite developed by the German company Maxon. ",
+    "formats_read": [
+        "3ds",
+        "dae",
+        "fbx",
+        "stl",
+        "usd",
+        "obj",
+        "wrl",
+        "bvh",
+        "abc",
+        "catia",
+        "dwg",
+        "iges",
+        "jt",
+        "skp",
+        "step",
+        "dem",
+        "dxf",
+        "tiff",
+        "tga",
+        "hdr",
+        "exr",
+        "bmp",
+        "jpg",
+        "png"
+    ],
+    "formats_write": [
+        "3ds",
+        "dae",
+        "fbx",
+        "gltf",
+        "stl",
+        "usd",
+        "obj",
+        "wrl",
+        "abc",
+        "catia",
+        "dwg",
+        "iges",
+        "jt",
+        "skp",
+        "step",
+        "dxf",
+        "x",
+        "tiff",
+        "tga",
+        "hdr",
+        "exr",
+        "bmp",
+        "jpg",
+        "png"
+    ],
+    "generic_name": [
+        "3D Modeling",
+        "3D Rendering",
+        "3D Rigging",
+        "3D Animation"
+    ],
+    "interface": [
+        "Custom"
+    ],
+    "issues": [
+        "Non-Free Software"
+    ],
+    "languages": [],
+    "licenses": [],
+    "links": {
+        "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/C4D_Logo.png/64px-C4D_Logo.png",
+        "wikipedia": "https://en.wikipedia.org/wiki/Cinema_4D"
+    },
+    "names": [
+        "Cinema 4D"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "Windows",
+        "macOS",
+        "GNU/Linux",
+        "AmigaOS"
+    ]
+}
