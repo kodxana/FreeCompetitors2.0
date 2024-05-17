@@ -1,0 +1,16 @@
+{
+    "names": ["VSCodium"],
+    "comment": "Libre binaries of Visual Studio Code without telemetry/tracking",
+    "links": {
+	"website": "https://vscodium.com/",
+	"git": "https://github.com/VSCodium/vscodium",
+	"icon": "https://raw.githubusercontent.com/VSCodium/vscodium/master/icons/codium_only.svg"
+    },
+    "licenses": ["MIT"],
+    "platforms": ["Windows", "MacOS", "GNU/Linux"],
+    "interface": ["Electron"],
+    "languages": ["TypeScript", "JavaScript", "HTML", "CSS"],
+    "formats_read": ["ascii", "utf-8", "utf-16"],
+    "formats_write": ["ascii", "utf-8", "utf-16"],
+    "generic_name": ["Text Editor", "IDE"]
+}

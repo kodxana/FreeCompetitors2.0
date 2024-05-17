@@ -1,0 +1,45 @@
+{
+    "comment": "A video-conferencing application.",
+    "formats_read": [],
+    "formats_write": [],
+    "generic_name": [
+        "Group Messenger",
+        "Video Calls",
+        "Video Conference"
+    ],
+    "interface": [
+        "JavaScript",
+        "Touch",
+        "Electron"
+    ],
+    "issues": [
+        "Non-Free Software",
+        "Non-Free Network",
+        "Non-Free JavaScript",
+        "Surveillance",
+        "Subscription"
+    ],
+    "languages": [],
+    "licenses": [],
+    "links": {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Zoom_Communications_Logo.svg/800px-Zoom_Communications_Logo.svg.png",
+        "wikipedia": "https://en.wikipedia.org/wiki/Zoom_(software)"
+    },
+    "names": [
+        "Zoom"
+    ],
+    "networks_read": [
+        "zoom"
+    ],
+    "networks_write": [
+        "zoom"
+    ],
+    "platforms": [
+        "GNU/Linux",
+        "MacOS",
+        "Windows",
+        "iOS",
+        "Android",
+        "Web"
+    ]
+}

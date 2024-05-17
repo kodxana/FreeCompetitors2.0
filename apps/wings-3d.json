@@ -1,0 +1,35 @@
+{
+    "comment": "Wings 3D is a free and open-source subdivision modeler inspired by Nendo and Mirai from Izware.",
+    "formats_read": [],
+    "formats_write": [],
+    "generic_name": [
+        "3D Modeling"
+    ],
+    "interface": [],
+    "issues": [],
+    "languages": [
+        "Erlang",
+        "C"
+    ],
+    "licenses": [
+        "BSD-3-Clause",
+        "GPL-2.0"
+    ],
+    "links": {
+        "documentation": "http://www.wings3d.com/?page_id=87",
+        "git": "https://github.com/dgud/wings",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wings3d.png/64px-Wings3d.png",
+        "website": "http://www.wings3d.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Wings_3D"
+    },
+    "names": [
+        "Wings 3D"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "Windows",
+        "macOS",
+        "GNU/Linux"
+    ]
+}

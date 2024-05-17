@@ -1,0 +1,20 @@
+{
+    "names": ["Visual Studio Code", "VSCode"],
+    "comment": "Editor developed primarily by Microsoft",
+    "links": {
+	"website": "https://code.visualstudio.com/",
+	"git": "https://github.com/Microsoft/vscode",
+	"wikipedia": "https://en.wikipedia.org/wiki/Visual_studio_code",
+	"icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"
+    },
+    "platforms": ["Windows", "MacOS", "GNU/Linux"],
+    "interface": ["Electron"],
+    "languages": ["TypeScript", "JavaScript", "HTML", "CSS"],
+    "formats_read": ["ascii", "utf-8", "utf-16"],
+    "formats_write": ["ascii", "utf-8", "utf-16"],
+    "generic_name": ["Text Editor", "IDE"],
+    "issues": [
+	"Surveillance",
+	"Non-Free Software"
+    ]
+}

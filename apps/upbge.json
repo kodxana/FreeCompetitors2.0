@@ -1,0 +1,96 @@
+{
+    "comment": "UPBGE is an open-source, 3D game engine forked from the old Blender Game Engine and deployed with Blender itself. This unified workflow is its main strength, as you can make your game from start to finish without leaving Blender.",
+    "formats_read": [
+        "blend",
+        "dae",
+        "abc",
+        "usd",
+        "usdc",
+        "usda",
+        "svg",
+        "bvh",
+        "ply",
+        "stl",
+        "fbx",
+        "glb",
+        "obj",
+        "x3d",
+        "wrl",
+        "webm",
+        "ogg",
+        "ogv",
+        "mp4",
+        "mp3",
+        "mp2",
+        "mp1",
+        "flv",
+        "dv",
+        "avi",
+        "mkv"
+    ],
+    "formats_write": [
+        "blend",
+        "dae",
+        "abc",
+        "usd",
+        "usdc",
+        "usda",
+        "svg",
+        "pdf",
+        "obj",
+        "ply",
+        "stl",
+        "fbx",
+        "glb",
+        "gltf",
+        "x3d",
+        "webm",
+        "ogg",
+        "ogv",
+        "mp4",
+        "mp3",
+        "mp2",
+        "mp1",
+        "flv",
+        "dv",
+        "avi",
+        "mkv"
+    ],
+    "generic_name": [
+        "Text Editor",
+        "Game Engine",
+        "3D Modeling",
+        "3D Sculpting",
+        "3D Rigging",
+        "3D Animation"
+    ],
+    "interface": [
+        "opengl"
+    ],
+    "issues": [],
+    "languages": [
+        "C",
+        "C++",
+        "Python"
+    ],
+    "licenses": [
+        "GPL-2.0-or-later"
+    ],
+    "links": {
+        "documentation": "https://upbge.org/#/documentation",
+        "git": "https://github.com/UPBGE/upbge",
+        "icon": "https://avatars.githubusercontent.com/u/16006310?s=200&v=4",
+        "website": "https://upbge.org/"
+    },
+    "names": [
+        "UPBGE"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "GNU/Linux",
+        "Windows",
+        "MacOS",
+        "BSD"
+    ]
+}

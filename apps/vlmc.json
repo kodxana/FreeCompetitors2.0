@@ -1,0 +1,50 @@
+{
+    "comment": "VideoLAN Movie Creator is a non-linear editing software for video creation based on libVLC and running on Windows, Linux and Mac OS X! It is free software distributed under the terms of the GPLv2.",
+    "formats_read": [
+        "webm",
+        "mp4",
+        "ogg",
+        "ogv",
+        "avi",
+        "mov",
+        "dvi"
+    ],
+    "formats_write": [
+        "webm",
+        "mp4",
+        "off",
+        "ogv",
+        "avi",
+        "mov",
+        "dvi"
+    ],
+    "generic_name": [
+        "Video Editor"
+    ],
+    "interface": [
+        "Qt"
+    ],
+    "issues": [],
+    "languages": [
+        "C++"
+    ],
+    "licenses": [
+        "GPL-2.0"
+    ],
+    "links": {
+        "git": "https://github.com/VLMC/vlmc",
+        "icon": "https://images.videolan.org/images/VLMC-Icon.png",
+        "website": "https://www.videolan.org/vlmc/"
+    },
+    "names": [
+        "VideoLAN Movie Creator",
+        "VLMC"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "Windows",
+        "GNU/Linux",
+        "macOS"
+    ]
+}
