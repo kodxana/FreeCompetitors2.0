@@ -1,0 +1,87 @@
+{
+    "comment": "A vector graphics editor and design program developed and marketed by Adobe Inc.",
+    "formats_read": [
+        "idea",
+        "ai",
+        "ait",
+        "line",
+        "pdf",
+        "dwg",
+        "dxf",
+        "bmp",
+        "rle",
+        "dib",
+        "cgm",
+        "cdr",
+        "eps",
+        "epsf",
+        "ps",
+        "emf",
+        "gif",
+        "heic",
+        "heif",
+        "jpg",
+        "jpeg",
+        "jpe",
+        "jpf",
+        "jpx",
+        "jp2",
+        "j2k",
+        "j2c",
+        "jpc",
+        "pic",
+        "pct",
+        "docx",
+        "pcx",
+        "psd",
+        "pdd",
+        "pxr",
+        "png",
+        "svg",
+        "svgz",
+        "tga",
+        "vga",
+        "icb",
+        "vst",
+        "txt",
+        "tif",
+        "tiff",
+        "webp",
+        "wmf"
+    ],
+    "formats_write": [
+        "ai",
+        "pdf",
+        "eps",
+        "ait",
+        "svg",
+        "svgz"
+    ],
+    "generic_name": [
+        "Vector Graphics"
+    ],
+    "interface": [
+        "Custom"
+    ],
+    "issues": [
+        "Subscription",
+        "Non-Free Software",
+        "Surveillance"
+    ],
+    "languages": [],
+    "licenses": [],
+    "links": {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/66px-Adobe_Illustrator_CC_icon.svg.png",
+        "wikipedia": "https://en.wikipedia.org/wiki/Adobe_Illustrator"
+    },
+    "names": [
+        "Adobe Illustrator",
+        "Illustrator"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "Windows",
+        "macOS"
+    ]
+}

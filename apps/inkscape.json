@@ -1,0 +1,109 @@
+{
+    "comment": "Inkscape is a free and open-source vector graphics editor used to create vector images, primarily in Scalable Vector Graphics (SVG) format. Other formats can be imported and exported.",
+    "formats_read": [
+        "ani",
+        "bmp",
+        "cur",
+        "gif",
+        "icns",
+        "ico",
+        "jpg",
+        "jpeg",
+        "jpe",
+        "jp2",
+        "jpc",
+        "jpx",
+        "j2k",
+        "jpf",
+        "pbm",
+        "pgm",
+        "pnm",
+        "ppm",
+        "pcx",
+        "png",
+        "qtif",
+        "ras",
+        "tga",
+        "targa",
+        "tif",
+        "tiff",
+        "wbmp",
+        "xbm",
+        "xcf",
+        "xcfbz2",
+        "xcfgz",
+        "xmp",
+        "ai",
+        "svg",
+        "cdr",
+        "ccx",
+        "cdt",
+        "cmx",
+        "cgm",
+        "dia",
+        "dxf",
+        "emf",
+        "eps",
+        "fig",
+        "ggr",
+        "hpgl",
+        "pdf",
+        "svgz",
+        "txt",
+        "wmf"
+    ],
+    "formats_write": [
+        "svg",
+        "svgz",
+        "png",
+        "ai",
+        "dxf",
+        "emf",
+        "eps",
+        "fx",
+        "gpl",
+        "odg",
+        "pdf",
+        "plt",
+        "pov",
+        "ps",
+        "sk1",
+        "tex",
+        "wmf",
+        "xcf",
+        "zip"
+    ],
+    "generic_name": [
+        "Vector Graphics"
+    ],
+    "interface": [
+        "GTK"
+    ],
+    "issues": [],
+    "languages": [
+        "C",
+        "C++"
+    ],
+    "licenses": [
+        "GPL-3.0-or-later"
+    ],
+    "links": {
+        "documentation": "http://tavmjong.free.fr/INKSCAPE/MANUAL/html/index.php",
+        "fsd": "https://directory.fsf.org/wiki/Inkscape",
+        "git": "https://gitlab.com/inkscape/inkscape",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/120px-Inkscape_Logo.svg.png",
+        "website": "https://inkscape.org/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Inkscape"
+    },
+    "names": [
+        "Inkscape"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "GNU/Linux",
+        "Windows",
+        "macOS",
+        "BSD"
+    ]
+}

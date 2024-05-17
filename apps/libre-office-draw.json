@@ -1,0 +1,67 @@
+{
+    "comment": "A free and open source vector graphics editor. It is one of the applications included in the LibreOffice office suite, developed by The Document Foundation.",
+    "formats_read": [
+        "pdf",
+        "odg",
+        "vsd",
+        "pub",
+        "ott",
+        "stw",
+        "oth",
+        "ots",
+        "stc",
+        "otp",
+        "sti",
+        "otg",
+        "std",
+        "vor",
+        "svg"
+    ],
+    "formats_write": [
+        "odg",
+        "bmp",
+        "esp",
+        "gif",
+        "jpeg",
+        "png",
+        "psd",
+        "svg",
+        "wmf",
+        "html",
+        "xhtml",
+        "pdf",
+        "swf"
+    ],
+    "generic_name": [
+        "Vector Graphics",
+        "Office"
+    ],
+    "interface": [
+        "Qt"
+    ],
+    "issues": [],
+    "languages": [
+        "C",
+        "C++"
+    ],
+    "licenses": [
+        "MPL-2.0"
+    ],
+    "links": {
+        "git": "https://www.libreoffice.org/about-us/source-code/",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/LibreOffice_6.1_Draw_Icon.svg/64px-LibreOffice_6.1_Draw_Icon.svg.png",
+        "website": "https://www.libreoffice.org/discover/draw/",
+        "wikipedia": "https://en.wikipedia.org/wiki/LibreOffice_Draw"
+    },
+    "names": [
+        "LibreOffice Draw",
+        "Draw"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "GNU/Linux",
+        "Windows",
+        "macOS"
+    ]
+}

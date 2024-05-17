@@ -1,0 +1,43 @@
+{
+    "comment": "A video-conferencing application.",
+    "formats_read": [],
+    "formats_write": [],
+    "generic_name": [
+        "Group Messenger",
+        "Video Calls",
+        "Video Conference"
+    ],
+    "interface": [
+        "JavaScript",
+        "Touch",
+        "Electron"
+    ],
+    "issues": [],
+    "languages": [],
+    "licenses": [
+        "Apache-2.0"
+    ],
+    "links": {
+        "git": "https://github.com/jitsi/jitsi",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Jitsi.svg/130px-Logo_Jitsi.svg.png",
+        "website": "https://meet.jit.si",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jitsi"
+    },
+    "names": [
+        "Jitsi"
+    ],
+    "networks_read": [
+        "jitsi"
+    ],
+    "networks_write": [
+        "jitsi"
+    ],
+    "platforms": [
+        "GNU/Linux",
+        "MacOS",
+        "Windows",
+        "iOS",
+        "Android",
+        "Web"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "comment": "K-3D is free-as-in-freedom 3D modeling and animation software. It combines flexible plugins with a visualization pipeline architecture, making K-3D a versatile and powerful tool for artists.",
+    "formats_read": [
+        "obj",
+        "gts"
+    ],
+    "formats_write": [
+        "obj",
+        "gts",
+        "jpg",
+        "png",
+        "tiff",
+        "exr",
+        "bmp",
+        "sun"
+    ],
+    "generic_name": [
+        "3D Modeling",
+        "3D Animation"
+    ],
+    "interface": [
+        "GTK"
+    ],
+    "issues": [],
+    "languages": [
+        "C++",
+        "Python",
+        "C"
+    ],
+    "licenses": [
+        "GPL-2.0"
+    ],
+    "links": {
+        "git": "https://github.com/K-3D/k3d",
+        "icon": "http://www.k-3d.org/k3d_logo.png",
+        "website": "http://www.k-3d.org/"
+    },
+    "names": [
+        "K-3D",
+        "k3d"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "GNU/Linux",
+        "Windows",
+        "BSD",
+        "macOS",
+        "Solaris"
+    ]
+}

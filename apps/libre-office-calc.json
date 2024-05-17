@@ -1,0 +1,104 @@
+{
+    "comment": "The spreadsheet component of the LibreOffice software package.",
+    "formats_read": [
+        "numbers",
+        "csv",
+        "dif",
+        "dbf",
+        "gnm",
+        "gnumeric",
+        "123",
+        "wks",
+        "wks1",
+        "wk2",
+        "wk3",
+        "wk4",
+        "xls",
+        "xlw",
+        "xlt",
+        "xlsx",
+        "xltx",
+        "xlsm",
+        "xltm",
+        "iqy",
+        "pxl",
+        "ods",
+        "fods",
+        "ots",
+        "sxc",
+        "stc",
+        "wb2",
+        "wq1",
+        "wq2",
+        "sdc",
+        "vor",
+        "slk"
+    ],
+    "formats_write": [
+        "numbers",
+        "csv",
+        "dif",
+        "dbf",
+        "123",
+        "wks",
+        "wks1",
+        "wk2",
+        "wk3",
+        "wk4",
+        "xls",
+        "xlw",
+        "xlt",
+        "xlsx",
+        "xltx",
+        "xlsm",
+        "xltm",
+        "iqy",
+        "pxl",
+        "ods",
+        "fods",
+        "ots",
+        "sxc",
+        "stc",
+        "wb2",
+        "wq1",
+        "wq2",
+        "sdc",
+        "vor",
+        "slk"
+    ],
+    "generic_name": [
+        "Office",
+        "Spreadsheet"
+    ],
+    "interface": [
+        "Qt"
+    ],
+    "issues": [],
+    "languages": [
+        "C",
+        "C++"
+    ],
+    "licenses": [
+        "MPL-2.0",
+        "LGPL-3.0-or-later",
+        "Apache-2.0"
+    ],
+    "links": {
+        "git": "https://www.libreoffice.org/about-us/source-code/",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LibreOffice_6.1_Calc_Icon.svg/64px-LibreOffice_6.1_Calc_Icon.svg.png",
+        "website": "https://www.libreoffice.org/discover/calc/",
+        "wikipedia": "https://en.wikipedia.org/wiki/LibreOffice_Calc"
+    },
+    "names": [
+        "LibreOffice Calc",
+        "Calc"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "GNU/Linux",
+        "Windows",
+        "macOS",
+        "BSD"
+    ]
+}

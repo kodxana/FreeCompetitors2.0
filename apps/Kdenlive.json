@@ -1,0 +1,50 @@
+{
+    "comment": "A free and open-source video editing software based on the MLT Framework, KDE and Qt. The project was started by Jason Wood in 2002, and is now maintained by a small team of developers.",
+    "formats_read": [
+        "webm",
+        "mp4",
+        "ogg",
+        "ogv",
+        "avi",
+        "mov",
+        "dvi"
+    ],
+    "formats_write": [
+        "webm",
+        "mp4",
+        "off",
+        "ogv",
+        "avi",
+        "mov",
+        "dvi"
+    ],
+    "generic_name": [
+        "Video Editor"
+    ],
+    "interface": [
+        "Qt"
+    ],
+    "issues": [],
+    "languages": [
+        "C++"
+    ],
+    "licenses": [
+        "GPL-3.0-or-later"
+    ],
+    "links": {
+        "git": "https://invent.kde.org/multimedia/kdenlive",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kdenlive_new_logo.png/180px-Kdenlive_new_logo.png",
+        "website": "https://kdenlive.org/en/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Kdenlive"
+    },
+    "names": [
+        "Kdenlive"
+    ],
+    "networks_read": [],
+    "networks_write": [],
+    "platforms": [
+        "Windows",
+        "GNU/Linux",
+        "macOS"
+    ]
+}
